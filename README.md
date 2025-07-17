@@ -6,8 +6,6 @@ A simple command-line implementation of the classic Blackjack (21) card game in 
 - [How to Play](#how-to-play)
 - [Card Values](#card-values)
 - [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Game Rules](#game-rules)
 - [Example Output](#example-output)
 
